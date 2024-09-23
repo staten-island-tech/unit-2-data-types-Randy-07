@@ -1,4 +1,4 @@
-number = int(input("type number"))
+number = int(input("type number:"))
 if number % 2 == 0:
     print("even")
 if number % 2 == 1:
