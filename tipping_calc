@@ -12,5 +12,4 @@ if service == "okay":
 if service == "bad":
     print("your total cost:")
     print(float(bill))
-else:
-    print("try again")
+    
