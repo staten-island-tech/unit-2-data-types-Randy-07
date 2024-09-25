@@ -1,2 +1,5 @@
 x = int(input("first number:"))
 y = int(input("second number:"))
+for i in range(0,x+1):
+    if x % i == 0 and y % i == 0:
+        print(i)
